@@ -1,6 +1,11 @@
-# first-webdesign-repo
+<Name of the Assignment> Assignment 1
 
-Hello !
-The author of this project is Sanyuktha Kumbla, she is a current graduate student at Northeastern University.
-This project will further be developed into a web based project.
-The description of the project will be displayed here shortly.
+<Assignment Requirement:> Setting up the development environmet
+
+<Instructions:> Once the development starts, instructions will be added.
+
+<Name:> Sanyuktha Kumbla
+
+<NUID:> 001002432
+
+<Email:> kumbla.s@northeastern.edu
