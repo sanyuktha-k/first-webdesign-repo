@@ -1,0 +1,17 @@
+@import '../../Styles/mixins';
+
+nav {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    padding: 2rem;
+    background-color: #043028;
+
+    button {
+        float: right;
+    }
+
+    .login-button {
+        @include resize(60px, 30px);
+    }
+}
