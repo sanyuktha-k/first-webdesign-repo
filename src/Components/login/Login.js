@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Login.scss';
 import { connect } from 'react-redux';
-import { loginUser } from '../reducers/reducerAction/Login';
+import { loginUser } from '../reducers/reducerAction/login';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 

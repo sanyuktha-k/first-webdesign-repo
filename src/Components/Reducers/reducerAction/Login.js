@@ -1,6 +1,6 @@
 import axios from "axios";
 import { LOGIN, NO_LOGIN, USER_LOADED, AUTH_ERROR } from '../reducerConst';
-import tokenToHeader from "../../localStorage/TokenToHeader";
+import tokenToHeader from "../../localStorage/tokenToHeader";
 import { setAlert } from "./alert";
 
 
